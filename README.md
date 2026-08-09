@@ -1,30 +1,55 @@
 # Gharam
-Computer Science | Computer Networks
-I am a Computer Science student with a Diploma in Computer Networks, interested in technology, networking, cybersecurity, and data analysis.
+🎓 Computer Science Graduate | Computer Networks
+I hold a Bachelor's Degree in Computer Science and a Diploma in Computer Networking.
+I have completed courses in Artificial Intelligence, Cybersecurity, and Digital Technologies. I am interested in Artificial Intelligence, Web Development, Cybersecurity, and Software Development.
 
-## 💻 Skills
-- Computer Networks
-- Cybersecurity Fundamentals
-- Microsoft Office
-- Power BI(Basic)
-- Data Analysis
-- Artificial Intelligence Fundamentals
+## 🎓 Education
+- Bachelor's Degree in Computer Science
+- Diploma in Computer Networking
 
-## 📚 Education
-- Bachelor's Degree in Computer Science — In Progress
-- Diploma in Computer Networks
+## 💻 Technical Skills
+- Python (Basic)
+- Java
+- C++
+- C#
+- MATLAB
+- SQL
+- UML System Modeling
+- Basic Web Development
+- AI Fundamentals
+- Power BI (Basic)
+
+## 📚 Courses & Certifications
+- Fundamentals of Artificial Intelligence
+- Artificial Intelligence Concepts and Advanced Applications
+- Introduction to Information Security
+- Digital Technologies for Administrative Work
+- Programming & AI Training Programs
+- Web Development Training
+- Governance and Risk Management Fundamentals
+
+## 💼 Experience
+### Administrative Intern – School System (Noor System)
+- Entered and managed student data using the Noor System
+- Recorded grades and prepared academic reports
+- Performed administrative and documentation tasks
+- Gained experience in educational administrative workflows
 
 ## 🚀 Projects
-- Kanz Bakery — Responsive Website
-- Power BI Data Analysis Projects
-- Computer Networks Projects
+### Afseh – AI Communication Bridge
+Graduation project in Computer Science focused on using AI to convert unclear speech into clear text and natural audio.
+- Designed to support individuals with speech disorders
+- Focused on accessibility and real-world AI applications
 
-## 🌱 Currently Learning
-- Cybersecurity
-- Data Analysis
-- Power BI
+## 🌱 Areas of Interest
 - Artificial Intelligence
+- Cybersecurity
+- Web Development
+- Software Development
+- Data Analysis
+- Computer Networks
+  
+## 🌍 Languages
 
-## 📫 Contact
-
-Feel free to connect with me on GitHub.
+- Arabic — Native
+- English — Very Good
