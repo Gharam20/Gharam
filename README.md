@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👩🏻‍💻 Gharam AlSuhaimi
+# 👩🏻‍💻 Gharam Yasir AlSuhaimi
 
 ### 💻 Computer Science | 🌐 Computer Networks | 🤖 AI & Cybersecurity
 
